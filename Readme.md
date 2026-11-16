@@ -21,6 +21,7 @@ The repository includes the following certificates:
 - **Social Media Marketing with AI**
 - **Vibe Coding**
 - **Web Development**
+- **SQL Intermediate**
 
 ---
 
@@ -29,6 +30,7 @@ The repository includes the following certificates:
 Through these courses, I have explored and developed knowledge in:
 
 - **HTML**
+- **SQL**
 - **CSS**
 - **JavaScript**
 - **Python**

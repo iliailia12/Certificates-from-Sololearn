@@ -1,0 +1,49 @@
+# 🎓 Certificates from Sololearn
+
+Welcome to my **Sololearn Certificates Repository!**
+
+This repository contains certificates I have earned through Sololearn by completing various courses in programming, web development, artificial intelligence, and digital marketing.
+
+These certificates represent my continuous learning journey, dedication to programming, and commitment to developing my technical skills.
+
+---
+
+## 📚 Certificates
+
+The repository includes the following certificates:
+
+- **AI-Powered AB Testing**
+- **Introduction to CSS**
+- **Introduction to HTML**
+- **Introduction to JavaScript**
+- **Introduction to Python**
+- **JavaScript Intermediate**
+- **Social Media Marketing with AI**
+- **Vibe Coding**
+- **Web Development**
+
+---
+
+## 💻 Skills & Technologies
+
+Through these courses, I have explored and developed knowledge in:
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Python**
+- **Web Development**
+- **Artificial Intelligence (AI)**
+- **Digital Marketing**
+- **Vibe Coding**
+
+---
+
+## 🎯 My Goal
+
+My goal is to continuously improve my programming skills, explore new technologies, build practical projects, and grow as a professional developer.
+
+I believe that **learning never stops!**
+
+---
+⭐ **Thank you for visiting my repository!**
